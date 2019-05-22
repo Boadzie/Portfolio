@@ -1,17 +1,29 @@
 <template>
   <div>
     <nuxt/>
-    <footer class="footer">
+    <footer class="footer container">
       <div class="container">
-        <div class="content has-text-centered">
+        <div class="content has-text-centered has-text-white">
           <p>
-            <p id="footer">copyright &copy; {{copy}}  Boadzie Daniel</p>
+            <p>copyright &copy; {{date.getFullYear()}}  Boadzie Daniel</p>
           </p>
         </div>
       </div>
     </footer>
   </div>
 </template>
+
+
+,<script>
+export default {
+  data() {
+    return {
+       date: new Date()
+    }   
+  },
+
+}
+</script>
 
 <style>
 html {
@@ -34,9 +46,10 @@ html {
   margin: 0;
 }
 
-footer{
+.footer{
   margin-top: 50px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
   background: #17202a;
+  border-radius: 5px;
 }
 </style>

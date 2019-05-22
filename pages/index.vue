@@ -15,33 +15,33 @@
           <div class="level-item has-text-centered">
             <div>
               <p class="buttons">
-                <a class="button is-rounded is-small">
+                <a class="button is-rounded is-small has-background-primary has-text-white">
                   <span class="icon is-small">
                     <i class="fab fa-github"></i>
                   </span>
                   <span>GitHub</span>
                 </a>
-                <a class="button is-rounded is-small">
+                <a class="button is-rounded is-small has-background-info has-text-white">
                   <span class="icon">
-                    <i class="fab fa-github"></i>
+                    <i class="fab fa-linkedin"></i>
                   </span>
                   <span>Linkedin</span>
                 </a>
-                <a class="button is-rounded is-small">
+                <a class="button is-rounded is-small has-background-success has-text-white">
                   <span class="icon">
-                    <i class="fab fa-github"></i>
+                    <i class="fab fa-facebook"></i>
                   </span>
                   <span>facebook</span>
                 </a>
-                <a class="button is-rounded is-small">
+                <a class="button is-rounded is-small has-background-danger has-text-white">
                   <span class="icon is-medium">
-                    <i class="fab fa-github"></i>
+                    <i class="fab fa-twitter"></i>
                   </span>
                   <span>Twitter</span>
                 </a>
-                <a class="button is-rounded is-small">
+                <a class="button is-rounded is-small has-background-grey has-text-white">
                   <span class="icon is-medium">
-                    <i class="fab fa-github"></i>
+                    <i class="fas fa-envelope-square"></i>
                   </span>
                   <span>Email</span>
                 </a>
@@ -53,7 +53,7 @@
     </section>
     <br>
     <br>
-    <section class="container has-text-centered ">
+    <section class="container has-text-centered">
       <div class="tile is-ancestor">
         <div class="tile is-vertical is-8">
           <div class="tile">
@@ -64,12 +64,10 @@
                 <p>lorem10</p>
               </article>
               <!-- the skills -->
-              <article class="tile is-child box ">
+              <article class="tile is-child box">
                 <h1 class="is-size-4 is-uppercase">Skills</h1>
                 <hr>
-                <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, obcaecati veniam. Eligendi quidem ipsam quia magni a culpa, dolorem rerum.
-                </p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, obcaecati veniam. Eligendi quidem ipsam quia magni a culpa, dolorem rerum.</p>
               </article>
             </div>
             <div class="tile is-parent">
@@ -83,8 +81,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <h1 class="is-size-4 is-uppercase">Projects</h1>
-              <hr>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo esse facilis provident, incidunt sed qui totam atque dicta illo! Cumque labore laudantium odio, blanditiis ipsa minima nobis eius totam minus amet, fugit dolore placeat delectus dolorum? Odio mollitia culpa totam?
+              <hr>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo esse facilis provident, incidunt sed qui totam atque dicta illo! Cumque labore laudantium odio, blanditiis ipsa minima nobis eius totam minus amet, fugit dolore placeat delectus dolorum? Odio mollitia culpa totam?
             </article>
           </div>
         </div>
@@ -122,14 +119,12 @@ img {
 }
 
 .cover {
-  background:   #17202a;
+  background: #17202a;
   border-radius: 5px;
 }
 
-hr{
+hr {
   border: 1px solid #ea6;
   margin-top: 6px;
 }
-
- 
 </style>
