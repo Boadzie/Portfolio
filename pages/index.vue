@@ -53,50 +53,105 @@
     </section>
     <br>
     <br>
-    <section class="container has-text-centered">
+    <section class="container">
       <div class="tile is-ancestor">
         <div class="tile is-vertical is-8">
           <div class="tile">
             <div class="tile is-parent is-vertical">
               <article class="tile is-child box about">
-                <h1 class="is-size-4 is-uppercase">About Me</h1>
+                <h1 class="is-size-4 is-uppercase has-text-centered">About Me</h1>
                 <hr>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore ratione nesciunt accusantium
-                  laborum, suscipit ut molestias iusto odio molestiae.</p>
+                <p class="has-text-left notification">
+                  I'm an
+                  <strong class="title is-6">IBM certified and passionate</strong>
+                  <strong class="title is-4">Data scientist, AI Engineer and a Full-stack Developer</strong> with
+                  <strong class="title is-4">3 years</strong> of experience.
+                </p>
+                <br>
+                <blockquote
+                  class="notification has-text-grey is-italic has-text-left"
+                >I look forward to working with you soon!</blockquote>
               </article>
               <!-- the skills -->
               <article class="tile is-child box">
-                <h1 class="is-size-4 is-uppercase">Skills</h1>
+                <h1 class="is-size-4 is-uppercase has-text-centered">Skills</h1>
                 <hr>
-                <div class="progress-wrapper">
-                  <progress class="progress is-danger is-large" value="81" max="100">90%</progress>
-                  <p class="progress-value has-text-white">VENoM-Stack(Vue.js)</p>
+                <br>
+                <div class="columns">
+                  <div class="column">
+                    <p class="box has-background-success has-text-white">Data Science (Python | R)</p>
+                  </div>
+                  <div class="column">
+                    <p class="box has-background-primary has-text-white">Artificial Intelligence</p>
+                  </div>
                 </div>
-                <div class="progress-wrapper">
-                  <progress class="progress is-primary is-large" value="79" max="100">90%</progress>
-                  <p class="progress-value has-text-white">Data Science</p>
-                </div>
-                <div class="progress-wrapper">
-                  <progress class="progress is-grey is-large" value="75" max="100">90%</progress>
-                  <p class="progress-value has-text-white">Artificial Intelligence</p>
-                </div>
-                <div class="progress-wrapper">
-                  <progress class="progress is-info is-large" value="78" max="100">90%</progress>
-                  <p class="progress-value has-text-white">DevOps</p>
+                <div class="columns">
+                  <div class="column">
+                    <p class="box has-background-info has-text-white">VENoM-Stack (Vue.js)</p>
+                  </div>
+                  <div class="column">
+                    <p class="box has-background-danger has-text-white">DevOps (Git, Docker, AWS)</p>
+                  </div>
                 </div>
               </article>
             </div>
             <div class="tile is-parent">
               <article class="tile is-child box">
                 <!-- Put any content you want -->
-                <h1 class="is-size-4 is-uppercase">Experience</h1>
+                <h1 class="is-size-4 is-uppercase has-text-centered">Experience</h1>
                 <hr>
+                <div class="box">
+                  <div class="content">
+                    <p class="has-text-weight-normal">
+                      <strong>AI/Data Science Instructor</strong> - Digital Youth Africa | University of Ghana Ethical AI Club
+                    </p>
+                    <h6
+                      class="content is-small is-italic has-text-weight-normal"
+                      style=" margin-top:-12px;"
+                    >Since February 2019</h6>
+                    <p>Helping students master the new technologies</p>
+                  </div>
+                </div>
+                <div class="box">
+                  <div class="content">
+                    <p class="has-text-weight-normal">
+                      <strong>Project Manager and Content Writer</strong> - Ivocate
+                    </p>
+                    <h6
+                      class="content is-small is-italic has-text-weight-normal"
+                      style=" margin-top:-12px;"
+                    >June 2018 to January 2019</h6>
+                    <p>Led my team to build a platform that helps victims of gender-based violence</p>
+                    <a
+                      href="http://ivocate.org/"
+                      target="_blank"
+                      class="button is-success is-outlined is-small is-rounded"
+                    >See it</a>
+                  </div>
+                </div>
+                <div class="box">
+                  <div class="content">
+                    <p class="has-text-weight-normal">
+                      <strong>Workshop Coordinator(Volunteer)</strong> - GhScientific
+                    </p>
+                    <h6
+                      class="content is-small is-italic has-text-weight-normal"
+                      style=" margin-top:-12px;"
+                    >Since December 2015</h6>
+                    <p>Helping to conduct and coordinate successful STEM related events</p>
+                    <a
+                      href="https://ghscientific.com/"
+                      class="button is-success is-outlined is-small is-rounded"
+                      target="_blank"
+                    >See it</a>
+                  </div>
+                </div>
               </article>
             </div>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <h1 class="is-size-4 is-uppercase">Certificates & Honors</h1>
+              <h1 class="is-size-4 is-uppercase has-text-centered">Certificates & Honors</h1>
               <hr>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo esse facilis provident, incidunt
               sed qui totam atque dicta illo! Cumque labore laudantium odio, blanditiis ipsa minima nobis eius totam
               minus amet, fugit dolore placeat delectus dolorum? Odio mollitia culpa totam?
@@ -106,7 +161,7 @@
         <div class="tile is-parent">
           <article class="tile is-child box">
             <!-- Put any content you want -->
-            <h1 class="is-size-4 is-uppercase">Projects</h1>
+            <h1 class="is-size-4 is-uppercase has-text-centered">Projects</h1>
             <hr>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, doloribus.</p>
           </article>
@@ -117,64 +172,38 @@
 </template>
 
 <script>
-  export default {
-    components: {}
-  };
-
+export default {
+  components: {}
+};
 </script>
 
 <style>
-  .down {
-    margin-bottom: em !important;
-  }
+.down {
+  margin-bottom: em !important;
+}
 
-  .card {
-    padding: 1em;
-    margin-top: 1em !important;
-  }
+.card {
+  padding: 1em;
+  margin-top: 1em !important;
+}
 
-  img {
-    width: 1em;
-    height: 30px;
-  }
+.image {
+  width: 100%;
+  height: 120px;
+}
 
-  .cover {
-    background: #17202a;
-    border-radius: 5px;
-  }
+img {
+  width: 1em;
+  height: 30px;
+}
 
-  .progress-wrapper {
-    position: relative;
-  }
+.cover {
+  background: #17202a;
+  border-radius: 5px;
+}
 
-  .progress-value {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: calc(1rem / 1.5);
-    line-height: 1rem;
-    font-weight: bold;
-  }
-
-  .progress.is-small+.progress-value {
-    font-size: calc(0.75rem / 1.5);
-    line-height: 0.75rem;
-  }
-
-  .progress.is-medium+.progress-value {
-    font-size: calc(1.25rem / 1.5);
-    line-height: 1.25rem;
-  }
-
-  .progress.is-large+.progress-value {
-    font-size: calc(1.5rem / 1.5);
-    line-height: 1.5rem;
-  }
-
-  hr {
-    border: 1px solid #ea6;
-    margin-top: 6px;
-  }
-
+hr {
+  border: 1px solid #ea6;
+  margin-top: 6px;
+}
 </style>
