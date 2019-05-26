@@ -45,6 +45,18 @@
                   </span>
                   <span>Email</span>
                 </a>
+                <a class="button is-rounded is-small has-background-dark has-text-white">
+                  <span class="icon is-medium">
+                    <i class="fas fa-envelope-square"></i>
+                  </span>
+                  <span>Acclaim</span>
+                </a>
+                <a class="button is-rounded is-small has-background-warning has-text-white">
+                  <span class="icon is-medium">
+                    <i class="fas fa-book"></i>
+                  </span>
+                  <span>Blog</span>
+                </a>
               </p>
             </div>
           </div>
@@ -82,7 +94,7 @@
                     <p class="box has-background-success has-text-white">Data Science (Python | R)</p>
                   </div>
                   <div class="column">
-                    <p class="box has-background-primary has-text-white">Artificial Intelligence</p>
+                    <p class="box has-background-dark has-text-white">Artificial Intelligence</p>
                   </div>
                 </div>
                 <div class="columns">
@@ -152,9 +164,67 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <h1 class="is-size-4 is-uppercase has-text-centered">Certificates & Honors</h1>
-              <hr>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo esse facilis provident, incidunt
-              sed qui totam atque dicta illo! Cumque labore laudantium odio, blanditiis ipsa minima nobis eius totam
-              minus amet, fugit dolore placeat delectus dolorum? Odio mollitia culpa totam?
+              <hr>
+              <nav class="level">
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/artificial-intelligence-v2.png">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/data-science-fundamentals.png">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/communicating-insights.png">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/natural-language-processing-v2.png">
+                    </figure>
+                  </div>
+                </div>
+              </nav>
+              <nav class="level">
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/chatbot.png">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-128x128">
+                      <img class="is-rounded" src="@/assets/img/api.png">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-square is-128x128">
+                      <img class src="@/assets/img/Data Analyst.jpg">
+                    </figure>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <figure class="image is-square is-128x128">
+                      <img class src="@/assets/img/Gallactic.jpg">
+                    </figure>
+                  </div>
+                </div>
+              </nav>
             </article>
           </div>
         </div>
