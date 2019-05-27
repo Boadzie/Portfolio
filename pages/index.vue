@@ -165,6 +165,7 @@
             <article class="tile is-child box">
               <h1 class="is-size-4 is-uppercase has-text-centered">Certificates & Honors</h1>
               <hr>
+              <br>
               <nav class="level">
                 <div class="level-item has-text-centered">
                   <div>
@@ -233,7 +234,54 @@
             <!-- Put any content you want -->
             <h1 class="is-size-4 is-uppercase has-text-centered">Projects</h1>
             <hr>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, doloribus.</p>
+            <div class="card box">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img src="@/assets/img/website1.svg" alt="Placeholder image">
+                </figure>
+              </div>
+              <br>
+              <div class="content">
+                <p>Train a Neural Network to distinguish between your Happy or Sad faces.</p>
+              </div>
+              <a
+                href="https://transfer_learner.surge.sh/"
+                target="_blank"
+                class="button is-outlined is-small is-success is-rounded"
+              >See it</a>
+            </div>
+            <div class="card box">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img src="@/assets/img/blog.svg" alt="Placeholder image">
+                </figure>
+              </div>
+              <br>
+              <div class="content">
+                <p>New Technologies notebook/Dictionary for Developers.</p>
+              </div>
+              <a
+                href="https://aiscript.surge.sh/"
+                target="_blank"
+                class="button is-outlined is-small is-success is-rounded"
+              >See it</a>
+            </div>
+            <div class="card box">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img src="@/assets/img/post.svg" alt="Placeholder image">
+                </figure>
+              </div>
+              <br>
+              <div class="content">
+                <p>A haven for victims of gender-based violence.</p>
+              </div>
+              <a
+                href="http://www.ivocate.org/"
+                target="_blank"
+                class="button is-outlined is-small is-success is-rounded"
+              >See it</a>
+            </div>
           </article>
         </div>
       </div>
