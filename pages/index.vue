@@ -15,48 +15,72 @@
           <div class="level-item has-text-centered">
             <div>
               <p class="buttons">
-                <a class="button is-rounded is-small has-background-primary has-text-white">
+                <a
+                  href="https://github.com/Boadzie"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-primary has-text-white"
+                >
                   <span class="icon is-small">
                     <i class="fab fa-github"></i>
                   </span>
                   <span>GitHub</span>
                 </a>
-                <a class="button is-rounded is-small has-background-info has-text-white">
+                <a
+                  href="https://www.linkedin.com/in/daniel-boadzie-5ab68213a/"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-info has-text-white"
+                >
                   <span class="icon">
                     <i class="fab fa-linkedin"></i>
                   </span>
                   <span>Linkedin</span>
                 </a>
-                <a class="button is-rounded is-small has-background-success has-text-white">
+                <a
+                  href="https://www.facebook.com/profile.php?id=100006259099181"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-success has-text-white"
+                >
                   <span class="icon">
                     <i class="fab fa-facebook"></i>
                   </span>
                   <span>facebook</span>
                 </a>
-                <a class="button is-rounded is-small has-background-danger has-text-white">
+                <a
+                  href="https://twitter.com/boadzie"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-danger has-text-white"
+                >
                   <span class="icon is-medium">
                     <i class="fab fa-twitter"></i>
                   </span>
                   <span>Twitter</span>
                 </a>
-                <a class="button is-rounded is-small has-background-grey has-text-white">
+                <a
+                  href="mailto:boadziedaniel43@gmail.com"
+                  subject="Want to work together"
+                  class="button is-rounded is-small has-background-grey has-text-white"
+                >
                   <span class="icon is-medium">
                     <i class="fas fa-envelope-square"></i>
                   </span>
                   <span>Email</span>
                 </a>
-                <a class="button is-rounded is-small has-background-dark has-text-white">
+                <a
+                  href="https://www.youracclaim.com/users/daniel-boadzie/badges"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-dark has-text-white"
+                >
                   <span class="icon is-medium">
-                    <i class="fas fa-envelope-square"></i>
+                    <i class="fas fa-award"></i>
                   </span>
                   <span>Acclaim</span>
                 </a>
-                <a class="button is-rounded is-small has-background-warning has-text-white">
+                <!-- <a class="button is-rounded is-small has-background-warning has-text-white">
                   <span class="icon is-medium">
                     <i class="fas fa-book"></i>
                   </span>
                   <span>Blog</span>
-                </a>
+                </a>-->
               </p>
             </div>
           </div>
@@ -102,7 +126,7 @@
                     <p class="box has-background-info has-text-white">VENoM-Stack (Vue.js)</p>
                   </div>
                   <div class="column">
-                    <p class="box has-background-danger has-text-white">DevOps (Git, Docker, AWS)</p>
+                    <p class="box has-background-danger has-text-white">DevOps (Git, Docker, etc.)</p>
                   </div>
                 </div>
               </article>
