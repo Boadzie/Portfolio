@@ -75,12 +75,16 @@
                   </span>
                   <span>Acclaim</span>
                 </a>
-                <!-- <a class="button is-rounded is-small has-background-warning has-text-white">
+                <a
+                  href="https://www.visualcv.com/boadzie-daniel/"
+                  target="_blank"
+                  class="button is-rounded is-small has-background-warning has-text-white"
+                >
                   <span class="icon is-medium">
-                    <i class="fas fa-book"></i>
+                    <i class="fas fa-file"></i>
                   </span>
-                  <span>Blog</span>
-                </a>-->
+                  <span>my CV</span>
+                </a>
               </p>
             </div>
           </div>
