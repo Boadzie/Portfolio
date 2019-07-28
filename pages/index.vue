@@ -8,7 +8,7 @@
           <div class="level-item has-text-centered">
             <div>
               <figure class="image is-128x128">
-                <img class="is-rounded" src="@/assets/img/dan.jpg">
+                <img class="is-rounded" src="@/assets/img/dan.jpg" />
               </figure>
             </div>
           </div>
@@ -91,8 +91,8 @@
         </nav>
       </div>
     </section>
-    <br>
-    <br>
+    <br />
+    <br />
     <section class="container">
       <div class="tile is-ancestor">
         <div class="tile is-vertical is-8">
@@ -100,14 +100,14 @@
             <div class="tile is-parent is-vertical">
               <article class="tile is-child box about">
                 <h1 class="is-size-4 is-uppercase has-text-centered">About Me</h1>
-                <hr>
+                <hr />
                 <p class="has-text-left notification">
                   I'm an
                   <strong class="title is-6">IBM certified and passionate</strong>
                   <strong class="title is-4">Data scientist, AI Engineer and a Full-stack Developer</strong> with
-                  <strong class="title is-4">3 years</strong> of experience.
+                  <strong class="title is-4">3+ years</strong> of experience.
                 </p>
-                <br>
+                <br />
                 <blockquote
                   class="notification has-text-grey is-italic has-text-left"
                 >I look forward to working with you soon!</blockquote>
@@ -115,8 +115,8 @@
               <!-- the skills -->
               <article class="tile is-child box">
                 <h1 class="is-size-4 is-uppercase has-text-centered">Skills</h1>
-                <hr>
-                <br>
+                <hr />
+                <br />
                 <div class="columns">
                   <div class="column">
                     <p class="box has-background-success has-text-white">Data Science (Python | R)</p>
@@ -139,7 +139,7 @@
               <article class="tile is-child box">
                 <!-- Put any content you want -->
                 <h1 class="is-size-4 is-uppercase has-text-centered">Experience</h1>
-                <hr>
+                <hr />
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
@@ -192,68 +192,85 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <h1 class="is-size-4 is-uppercase has-text-centered">Certificates & Honors</h1>
-              <hr>
-              <br>
+              <hr />
+              <br />
+              <br />
+              <br />
               <nav class="level">
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/artificial-intelligence-v2.png">
+                      <img
+                        class="is-rounded scale"
+                        src="@/assets/img/artificial-intelligence-v2.png"
+                      />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/data-science-fundamentals.png">
+                      <img
+                        class="is-rounded scale"
+                        src="@/assets/img/data-science-fundamentals.png"
+                      />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/communicating-insights.png">
+                      <img class="is-rounded scale" src="@/assets/img/communicating-insights.png" />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/natural-language-processing-v2.png">
+                      <img
+                        class="is-rounded scale"
+                        src="@/assets/img/natural-language-processing-v2.png"
+                      />
                     </figure>
                   </div>
                 </div>
               </nav>
+              <br />
+              <br />
+              <br />
               <nav class="level">
                 <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/chatbot.png">
+                    <figure class="image is-square is-128x128">
+                      <img class="scale" src="@/assets/img/GCloud.jpg" />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
+                  <div class="level-item has-text-centered">
+                    <div>
+                      <figure class="image is-square is-128x128">
+                        <img class="scale" src="@/assets/img/AI Engineer.jpg" />
+                      </figure>
+                    </div>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
-                      <img class="is-rounded" src="@/assets/img/api.png">
+                    <figure class="image is-square is-128x128">
+                      <img class="scale" src="@/assets/img/Data Analyst.jpg" />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-square is-128x128">
-                      <img class src="@/assets/img/Data Analyst.jpg">
-                    </figure>
-                  </div>
-                </div>
-                <div class="level-item has-text-centered">
-                  <div>
-                    <figure class="image is-square is-128x128">
-                      <img class src="@/assets/img/Gallactic.jpg">
+                      <img class="scale" src="@/assets/img/Gallactic.jpg" />
                     </figure>
                   </div>
                 </div>
               </nav>
+              <nav class="level"></nav>
             </article>
           </div>
         </div>
@@ -261,19 +278,19 @@
           <article class="tile is-child box">
             <!-- Put any content you want -->
             <h1 class="is-size-4 is-uppercase has-text-centered">Projects</h1>
-            <hr>
+            <hr />
             <div class="card box">
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img src="@/assets/img/website1.svg" alt="Placeholder image">
+                  <img src="@/assets/img/website1.svg" alt="Placeholder image" />
                 </figure>
               </div>
-              <br>
+              <br />
               <div class="content">
-                <p>Train a Neural Network to distinguish between your Happy or Sad faces.</p>
+                <p>Trained a model to predict Titanic passenger survival rate.</p>
               </div>
               <a
-                href="https://transfer_learner.surge.sh/"
+                href="https://titanic-predictit.herokuapp.com/"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
               >See it</a>
@@ -281,10 +298,10 @@
             <div class="card box">
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img src="@/assets/img/blog.svg" alt="Placeholder image">
+                  <img src="@/assets/img/blog.svg" alt="Placeholder image" />
                 </figure>
               </div>
-              <br>
+              <br />
               <div class="content">
                 <p>New Technologies notebook/Dictionary for Developers.</p>
               </div>
@@ -297,10 +314,10 @@
             <div class="card box">
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img src="@/assets/img/post.svg" alt="Placeholder image">
+                  <img src="@/assets/img/post.svg" alt="Placeholder image" />
                 </figure>
               </div>
-              <br>
+              <br />
               <div class="content">
                 <p>A haven for victims of gender-based violence.</p>
               </div>
@@ -346,6 +363,10 @@ img {
 .cover {
   background: #17202a;
   border-radius: 5px;
+}
+
+.scale:hover {
+  transform: scale(2.2);
 }
 
 hr {
