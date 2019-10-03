@@ -76,7 +76,7 @@
                   <span>Acclaim</span>
                 </a>
                 <a
-                  href="https://www.visualcv.com/boadzie-daniel/"
+                  href="https://docs.google.com/document/d/15Xx1ptJFRYELL3Kn20FliFn3HVyITS5_hWWQulFcLsc/edit?usp=sharing"
                   target="_blank"
                   class="button is-rounded is-small has-background-warning has-text-white"
                 >
