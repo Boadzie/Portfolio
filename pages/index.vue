@@ -143,27 +143,15 @@
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>AI/Data Science Instructor</strong> - Digital Youth Africa | University of Ghana Ethical AI Club
+                      <strong>Data scientist <a href="https://www.4th-ir.com/" target="_blank">4th-IR</a></strong> 
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
                       style=" margin-top:-12px;"
-                    >Since February 2019</h6>
-                    <p>Helping students master the new technologies</p>
-                  </div>
-                </div>
-                <div class="box">
-                  <div class="content">
-                    <p class="has-text-weight-normal">
-                      <strong>Project Manager and Content Writer</strong> - Ivocate
-                    </p>
-                    <h6
-                      class="content is-small is-italic has-text-weight-normal"
-                      style=" margin-top:-12px;"
-                    >June 2018 to January 2019</h6>
-                    <p>Led my team to build a platform that helps victims of gender-based violence</p>
+                    >Since January 2020</h6>
+                    <p>Building robust AI solutions to solve problems in Health and Finance.</p>
                     <a
-                      href="http://ivocate.org/"
+                      href="https://www.4th-ir.com/"
                       target="_blank"
                       class="button is-success is-outlined is-small is-rounded"
                     >See it</a>
@@ -172,15 +160,32 @@
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>Workshop Coordinator(Volunteer)</strong> - GhScientific
+                      <strong>AI Instructor - <a href="https://www.aimovement.club/" target="_blank">Artificial Intelligence Movement(AIM)</a> </strong>
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
                       style=" margin-top:-12px;"
-                    >Since December 2015</h6>
-                    <p>Helping to conduct and coordinate successful STEM related events</p>
+                    >Since July 2019</h6>
+                    <p>Transforming a group of new students into proficient AI Engineers who are solving real-world problems. </p>
                     <a
-                      href="https://ghscientific.com/"
+                      href="https://www.aimovement.club/"
+                      target="_blank"
+                      class="button is-success is-outlined is-small is-rounded"
+                    >See it</a>
+                  </div>
+                </div>
+                <div class="box">
+                  <div class="content">
+                    <p class="has-text-weight-normal">
+                      <strong>AI Instructor</strong> - <a href="https://www.ghanatechlab.com/" target="_blank">Ghana Tech Lab</a>
+                    </p>
+                    <h6
+                      class="content is-small is-italic has-text-weight-normal"
+                      style=" margin-top:-12px;"
+                    >August - September 2019</h6>
+                    <p>Transformed a group of new students into proficient AI Engineers who are solving real-world problems </p>
+                    <a
+                      href="https://www.ghanatechlab.com/"
                       class="button is-success is-outlined is-small is-rounded"
                       target="_blank"
                     >See it</a>
@@ -303,10 +308,10 @@
               </div>
               <br />
               <div class="content">
-                <p>New Technologies notebook/Dictionary for Developers.</p>
+                <p>Tech content writer for Analytics Vidhya.</p>
               </div>
               <a
-                href="https://aiscript.surge.sh/"
+                href="https://medium.com/analytics-vidhya/streamlit-the-awesome-new-way-to-deploy-data-science-machine-learning-apps-6929737b7a68"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
               >See it</a>
@@ -319,10 +324,10 @@
               </div>
               <br />
               <div class="content">
-                <p>A haven for victims of gender-based violence.</p>
+                <p>Contribution to open source (Streamlit App Gallery).</p>
               </div>
               <a
-                href="http://www.ivocate.org/"
+                href="https://awesome-streamlit.org/"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
               >See it</a>
