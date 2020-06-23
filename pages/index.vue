@@ -103,9 +103,9 @@
                 <hr />
                 <p class="has-text-left notification">
                   I'm an
-                  <strong class="title is-6">IBM certified and passionate</strong>
+                  <strong class="title is-6">Passionate</strong>
                   <strong class="title is-4">Data scientist, AI Engineer and a Full-stack Developer</strong> with
-                  <strong class="title is-4">3+ years</strong> of experience.
+                  <strong class="title is-4">many years</strong> of experience.
                 </p>
                 <br />
                 <blockquote
