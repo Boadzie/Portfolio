@@ -102,7 +102,7 @@
                 <h1 class="is-size-4 is-uppercase has-text-centered">About Me</h1>
                 <hr />
                 <p class="has-text-left notification">
-                  I'm an
+                  I'm a
                   <strong class="title is-6">Passionate</strong>
                   <strong class="title is-4">Data scientist, AI Engineer and a Full-stack Developer</strong> with
                   <strong class="title is-4">many years</strong> of experience.
