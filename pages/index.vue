@@ -99,18 +99,26 @@
           <div class="tile">
             <div class="tile is-parent is-vertical">
               <article class="tile is-child box about">
-                <h1 class="is-size-4 is-uppercase has-text-centered">About Me</h1>
+                <h1 class="is-size-4 is-uppercase has-text-centered">
+                  About Me
+                </h1>
                 <hr />
                 <p class="has-text-left notification">
                   I'm a
                   <strong class="title is-6">Passionate</strong>
-                  <strong class="title is-4">Data scientist, AI Engineer and a Full-stack Developer</strong> with
-                  <strong class="title is-4">many years</strong> of experience.
+                  <strong class="title is-4"
+                    >Data scientist, AI Engineer and a Full-stack
+                    Developer</strong
+                  >
+                  with <strong class="title is-4">many years</strong> of
+                  experience.
                 </p>
                 <br />
                 <blockquote
                   class="notification has-text-grey is-italic has-text-left"
-                >I look forward to working with you soon!</blockquote>
+                >
+                  I look forward to working with you soon!
+                </blockquote>
               </article>
               <!-- the skills -->
               <article class="tile is-child box">
@@ -119,18 +127,26 @@
                 <br />
                 <div class="columns">
                   <div class="column">
-                    <p class="box has-background-success has-text-white">Data Science (Python | R)</p>
+                    <p class="box has-background-success has-text-white">
+                      Data Science (Python | R)
+                    </p>
                   </div>
                   <div class="column">
-                    <p class="box has-background-dark has-text-white">Artificial Intelligence</p>
+                    <p class="box has-background-dark has-text-white">
+                      Artificial Intelligence
+                    </p>
                   </div>
                 </div>
                 <div class="columns">
                   <div class="column">
-                    <p class="box has-background-info has-text-white">VENoM-Stack (Vue.js)</p>
+                    <p class="box has-background-info has-text-white">
+                      MERN (React.js and GraphQL)
+                    </p>
                   </div>
                   <div class="column">
-                    <p class="box has-background-danger has-text-white">DevOps (Git, Docker, etc.)</p>
+                    <p class="box has-background-danger has-text-white">
+                      DevOps (Git, Docker, etc.)
+                    </p>
                   </div>
                 </div>
               </article>
@@ -138,57 +154,90 @@
             <div class="tile is-parent">
               <article class="tile is-child box">
                 <!-- Put any content you want -->
-                <h1 class="is-size-4 is-uppercase has-text-centered">Experience</h1>
+                <h1 class="is-size-4 is-uppercase has-text-centered">
+                  Experience
+                </h1>
                 <hr />
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>Data scientist <a href="https://www.4th-ir.com/" target="_blank">4th-IR</a></strong> 
+                      <strong
+                        >Data scientist
+                        <a href="https://www.4th-ir.com/" target="_blank"
+                          >4th-IR</a
+                        ></strong
+                      >
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
-                      style=" margin-top:-12px;"
-                    >Since January 2020</h6>
-                    <p>Building robust AI solutions to solve problems in Health and Finance.</p>
+                      style="margin-top: -12px"
+                    >
+                      Since January 2020
+                    </h6>
+                    <p>
+                      Building robust AI solutions to solve problems in Health
+                      and Finance.
+                    </p>
                     <a
                       href="https://www.4th-ir.com/"
                       target="_blank"
                       class="button is-success is-outlined is-small is-rounded"
-                    >See it</a>
+                      >See it</a
+                    >
                   </div>
                 </div>
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>AI Instructor - <a href="https://www.aimovement.club/" target="_blank">Artificial Intelligence Movement(AIM)</a> </strong>
+                      <strong>
+                        AI Instructor/Director -
+                        <a href="https:trestleacademy.club/" target="_blank"
+                          >Trestle Academy Ghana(TAG)</a
+                        >
+                      </strong>
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
-                      style=" margin-top:-12px;"
-                    >Since July 2019</h6>
-                    <p>Transforming a group of new students into proficient AI Engineers who are solving real-world problems. </p>
+                      style="margin-top: -12px"
+                    >
+                      Since July 2019
+                    </h6>
+                    <p>
+                      Transforming a group of new students into proficient AI
+                      Engineers who are solving real-world problems.
+                    </p>
                     <a
-                      href="https://www.aimovement.club/"
+                      href="https:trestleacademy.club/"
                       target="_blank"
                       class="button is-success is-outlined is-small is-rounded"
-                    >See it</a>
+                      >See it</a
+                    >
                   </div>
                 </div>
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>AI Instructor</strong> - <a href="https://www.ghanatechlab.com/" target="_blank">Ghana Tech Lab</a>
+                      <strong>AI Instructor</strong> -
+                      <a href="https://www.ghanatechlab.com/" target="_blank"
+                        >Ghana Tech Lab</a
+                      >
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
-                      style=" margin-top:-12px;"
-                    >August - September 2019</h6>
-                    <p>Transformed a group of new students into proficient AI Engineers who are solving real-world problems </p>
+                      style="margin-top: -12px"
+                    >
+                      August - September 2019
+                    </h6>
+                    <p>
+                      Transformed a group of new students into proficient AI
+                      Engineers who are solving real-world problems
+                    </p>
                     <a
                       href="https://www.ghanatechlab.com/"
                       class="button is-success is-outlined is-small is-rounded"
                       target="_blank"
-                    >See it</a>
+                      >See it</a
+                    >
                   </div>
                 </div>
               </article>
@@ -196,7 +245,9 @@
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <h1 class="is-size-4 is-uppercase has-text-centered">Certificates & Honors</h1>
+              <h1 class="is-size-4 is-uppercase has-text-centered">
+                Certificates & Honors
+              </h1>
               <hr />
               <br />
               <br />
@@ -225,7 +276,10 @@
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-128x128">
-                      <img class="is-rounded scale" src="@/assets/img/communicating-insights.png" />
+                      <img
+                        class="is-rounded scale"
+                        src="@/assets/img/communicating-insights.png"
+                      />
                     </figure>
                   </div>
                 </div>
@@ -287,18 +341,24 @@
             <div class="card box">
               <div class="card-image">
                 <figure class="image is-4by3">
-                  <img src="@/assets/img/website1.svg" alt="Placeholder image" />
+                  <img
+                    src="@/assets/img/website1.svg"
+                    alt="Placeholder image"
+                  />
                 </figure>
               </div>
               <br />
               <div class="content">
-                <p>Trained a model to predict Titanic passenger survival rate.</p>
+                <p>
+                  Trained a model to predict Titanic passenger survival rate.
+                </p>
               </div>
               <a
                 href="https://titanic-predictit.herokuapp.com/"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
-              >See it</a>
+                >See it</a
+              >
             </div>
             <div class="card box">
               <div class="card-image">
@@ -314,7 +374,8 @@
                 href="https://medium.com/analytics-vidhya/streamlit-the-awesome-new-way-to-deploy-data-science-machine-learning-apps-6929737b7a68"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
-              >See it</a>
+                >See it</a
+              >
             </div>
             <div class="card box">
               <div class="card-image">
@@ -330,7 +391,8 @@
                 href="https://awesome-streamlit.org/"
                 target="_blank"
                 class="button is-outlined is-small is-success is-rounded"
-              >See it</a>
+                >See it</a
+              >
             </div>
           </article>
         </div>
@@ -341,7 +403,7 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
 };
 </script>
 
