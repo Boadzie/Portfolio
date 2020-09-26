@@ -191,7 +191,9 @@
                     <p class="has-text-weight-normal">
                       <strong>
                         AI Instructor/Director -
-                        <a href="https:trestleacademy.club/" target="_blank"
+                        <a
+                          href="https://www.trestleacademy.club/"
+                          target="_blank"
                           >Trestle Academy Ghana(TAG)</a
                         >
                       </strong>
@@ -207,7 +209,7 @@
                       Engineers who are solving real-world problems.
                     </p>
                     <a
-                      href="https:trestleacademy.club/"
+                      href="https://www.trestleacademy.club/"
                       target="_blank"
                       class="button is-success is-outlined is-small is-rounded"
                       >See it</a
@@ -403,7 +405,7 @@
 
 <script>
 export default {
-  components: {},
+  components: {}
 };
 </script>
 
