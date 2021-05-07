@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="card container cover">
+    <section class="container card cover">
       <!-- Hero head: will stick at the top -->
       <!-- Hero content: will be in the middle -->
       <div class="container has-text-centered down">
@@ -103,22 +103,10 @@
                   About Me
                 </h1>
                 <hr />
-                <p class="has-text-left notification">
-                  I'm a
-                  <strong class="title is-6">Passionate</strong>
-                  <strong class="title is-4"
-                    >Data scientist, AI Engineer and a Full-stack
-                    Developer</strong
-                  >
-                  with <strong class="title is-4">many years</strong> of
-                  experience.
+                <p class="is-size-5 has-text-left notification is-default">
+                  <span class="has-text-success">Google certified Professional Data Analyst</span> with a passion for data and discovering insights that inform decisions.
                 </p>
-                <br />
-                <blockquote
-                  class="notification has-text-grey is-italic has-text-left"
-                >
-                  I look forward to working with you soon!
-                </blockquote>
+               
               </article>
               <!-- the skills -->
               <article class="tile is-child box">
@@ -128,24 +116,27 @@
                 <div class="columns">
                   <div class="column">
                     <p class="box has-background-success has-text-white">
-                      Data Science (Python | R)
+                      Programming (R | Python)
                     </p>
                   </div>
                   <div class="column">
                     <p class="box has-background-dark has-text-white">
-                      Artificial Intelligence
+                      Database Queries
+                      SQL(Postgresql)
                     </p>
                   </div>
                 </div>
                 <div class="columns">
                   <div class="column">
                     <p class="box has-background-info has-text-white">
-                      MERN (React.js and GraphQL)
+                      Data Visualization
+                      Tableau | R(ggplot2)
                     </p>
                   </div>
                   <div class="column">
                     <p class="box has-background-danger has-text-white">
-                      DevOps (Git, Docker, etc.)
+                     Dashboards & Reports
+                     Rmarkdown
                     </p>
                   </div>
                 </div>
@@ -159,6 +150,32 @@
                 </h1>
                 <hr />
                 <div class="box">
+                  <div class="content">
+                    <p class="has-text-weight-normal">
+                      <strong>Graduate</strong> -
+                      <a href="https://www.ghanatechlab.com/" target="_blank"
+                        >Google Data Analytics Certificate.</a
+                      >
+                    </p>
+                    <h6
+                      class="content is-small is-italic has-text-weight-normal"
+                      style="margin-top: -12px"
+                    >
+                      April - May 2021
+                    </h6>
+                    <p>
+                      Use R, SQL, Tableau and Excel to perform analysis and tell meaningful stories in data.
+                    </p>
+                    <a
+                      href="https://coursera.org/share/33b0edc7b4dfb09036d7c7d91dae84d6"
+                      class="button is-success is-outlined is-small is-rounded"
+                      target="_blank"
+                      >See it</a
+                    >
+                  </div>
+                </div>
+                <div class="box">
+
                   <div class="content">
                     <p class="has-text-weight-normal">
                       <strong
@@ -175,7 +192,7 @@
                       Since January 2020
                     </h6>
                     <p>
-                      Building robust AI solutions to solve problems in Health
+                      Built robust AI solutions to solve problems in Health
                       and Finance.
                     </p>
                     <a
@@ -205,8 +222,7 @@
                       Since July 2019
                     </h6>
                     <p>
-                      Transforming a group of new students into proficient AI
-                      Engineers who are solving real-world problems.
+                      Training University student to acquare skills in Data Science and AI.
                     </p>
                     <a
                       href="https://www.trestleacademy.club/"
@@ -216,32 +232,7 @@
                     >
                   </div>
                 </div>
-                <div class="box">
-                  <div class="content">
-                    <p class="has-text-weight-normal">
-                      <strong>AI Instructor</strong> -
-                      <a href="https://www.ghanatechlab.com/" target="_blank"
-                        >Ghana Tech Lab</a
-                      >
-                    </p>
-                    <h6
-                      class="content is-small is-italic has-text-weight-normal"
-                      style="margin-top: -12px"
-                    >
-                      August - September 2019
-                    </h6>
-                    <p>
-                      Transformed a group of new students into proficient AI
-                      Engineers who are solving real-world problems
-                    </p>
-                    <a
-                      href="https://www.ghanatechlab.com/"
-                      class="button is-success is-outlined is-small is-rounded"
-                      target="_blank"
-                      >See it</a
-                    >
-                  </div>
-                </div>
+                
               </article>
             </div>
           </div>
@@ -257,40 +248,41 @@
               <nav class="level">
                 <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
+                    <figure class="image is-square is-128x128">
+                      
                       <img
-                        class="is-rounded scale"
-                        src="@/assets/img/artificial-intelligence-v2.png"
+                        class="is-square scale"
+                        src="@/assets/img/google-data-analytics-certificate.png"
                       />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
+                    <figure class="image is-square is-128x128">
                       <img
-                        class="is-rounded scale"
-                        src="@/assets/img/data-science-fundamentals.png"
+                        class="is-square scale"
+                        src="@/assets/img/analysis.jpg"
                       />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
+                    <figure class="image is-square is-128x128">
                       <img
-                        class="is-rounded scale"
-                        src="@/assets/img/communicating-insights.png"
+                        class="is-square scale"
+                        src="@/assets/img/R.jpg"
                       />
                     </figure>
                   </div>
                 </div>
                 <div class="level-item has-text-centered">
                   <div>
-                    <figure class="image is-128x128">
+                    <figure class="image is-square is-128x128">
                       <img
-                        class="is-rounded scale"
-                        src="@/assets/img/natural-language-processing-v2.png"
+                        class="is-square scale"
+                        src="@/assets/img/visualization.jpg"
                       />
                     </figure>
                   </div>
@@ -303,7 +295,7 @@
                 <div class="level-item has-text-centered">
                   <div>
                     <figure class="image is-square is-128x128">
-                      <img class="scale" src="@/assets/img/GCloud.jpg" />
+                      <img class="is-square scale" src="@/assets/img/process.jpg" />
                     </figure>
                   </div>
                 </div>
@@ -311,7 +303,7 @@
                   <div class="level-item has-text-centered">
                     <div>
                       <figure class="image is-square is-128x128">
-                        <img class="scale" src="@/assets/img/AI Engineer.jpg" />
+                        <img class="scale" src="@/assets/img/communicating-insights.png" />
                       </figure>
                     </div>
                   </div>

@@ -1,11 +1,11 @@
 <template>
   <div>
     <nuxt/>
-    <footer class="footer container">
+    <footer class="container footer">
       <div class="container">
         <div class="content has-text-centered has-text-white">
           <p>
-            <p>copyright &copy; {{date.getFullYear()}}  Boadzie Daniel</p>
+            <p>copyright &copy; {{date.getFullYear()}} Daniel  Boadzie </p>
           </p>
         </div>
       </div>

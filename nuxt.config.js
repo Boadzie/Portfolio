@@ -7,7 +7,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: pkg.name,
+    title: "Daniel Boadzie",
     meta: [{
         charset: 'utf-8'
       },
