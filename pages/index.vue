@@ -1,9 +1,9 @@
 <template>
   <div>
-    <section class="container card cover">
+    <section class="container py-24 cover">
       <!-- Hero head: will stick at the top -->
       <!-- Hero content: will be in the middle -->
-      <div class="container has-text-centered down">
+      <div class="container py-12  has-text-centered down">
         <nav class="level">
           <div class="level-item has-text-centered">
             <div>
@@ -130,13 +130,12 @@
                   <div class="column">
                     <p class="box has-background-info has-text-white">
                       Data Visualization
-                      Tableau | R(ggplot2)
+                      Tableau | R
                     </p>
                   </div>
                   <div class="column">
                     <p class="box has-background-danger has-text-white">
-                     Dashboards & Reports
-                     Rmarkdown
+                     Dashboards & Reports(Rmarkdown)
                     </p>
                   </div>
                 </div>
@@ -152,10 +151,10 @@
                 <div class="box">
                   <div class="content">
                     <p class="has-text-weight-normal">
-                      <strong>Graduate</strong> -
+                      <strong>Graduate -
                       <a href="https://www.ghanatechlab.com/" target="_blank"
                         >Google Data Analytics Certificate.</a
-                      >
+                      ></strong>
                     </p>
                     <h6
                       class="content is-small is-italic has-text-weight-normal"
@@ -402,13 +401,11 @@ export default {
 </script>
 
 <style>
-.down {
-  margin-bottom: em !important;
-}
 
-.card {
-  padding: 1em;
-  margin-top: 1em !important;
+
+.nuxt-content-highlight {
+  border-radius: .25rem !important;
+  margin-top: 3rem;
 }
 
 .image {
@@ -424,6 +421,7 @@ img {
 .cover {
   background: #17202a;
   border-radius: 5px;
+  padding: 2rem;
 }
 
 .scale:hover {

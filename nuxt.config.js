@@ -1,6 +1,7 @@
 import pkg from './package'
 
 export default {
+ 
   mode: 'universal',
 
   /*
@@ -55,7 +56,16 @@ export default {
   modules: [
     // Doc:https://github.com/nuxt-community/modules/tree/master/packages/bulma
     '@nuxtjs/bulma',
+    '@nuxt/content',
+    '@nuxtjs/tailwindcss'
   ],
+  content: {
+    markdown: {
+      prism: {
+        theme: 'prism-themes/themes/prism-shades-of-purple.css'
+      }
+    }
+  },
 
   /*
    ** Build configuration
