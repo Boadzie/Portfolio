@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Navbar/>
     <nuxt/>
     <footer class="container footer">
       <div class="container">
@@ -14,8 +15,13 @@
 </template>
 
 
-,<script>
+<script>
+import Navbar from "../components/Navbar"
+
 export default {
+  components: {
+    Navbar
+  },
   data() {
     return {
        date: new Date()
@@ -25,7 +31,7 @@ export default {
 }
 </script>
 
-<style>
+<style >
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
